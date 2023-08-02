@@ -12,11 +12,11 @@ Os demais documentos estão todos em formato CSV e foram coletados e/ou transfor
 
 ## Competências Empregadas no Desenvolvimento do Projeto:
 
--Analise Estaística
--Analise Exploratória
--Web Scrapping
--Machine Learning
--Avaliação de modelos
--Data Cleaning
--Feature Engineering
--Visualização de dados
+-Analise Estaística\n
+-Analise Exploratória\n
+-Web Scrapping\n
+-Machine Learning\n
+-Avaliação de modelos\n
+-Data Cleaning\n
+-Feature Engineering\n
+-Visualização de dados\n
