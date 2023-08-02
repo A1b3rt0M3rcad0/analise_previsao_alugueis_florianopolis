@@ -2,8 +2,8 @@
 
 ## Algumas Observações:
 
-Scraper: Neste notebook você ira encontar o código utilizado para fazer a coléta de dados no site "https://www.vivareal.com.br/", os dados foram coletados
-de alugueis na região de florianópolis
+Scraper: Neste notebook você ira encontar o código utilizado para fazer a coleta de dados no site "https://www.vivareal.com.br/", os dados foram coletados
+de alugueis na região de Florianópolis
 
 main: Aqui você verá o notebook contendo todas as transformações e analise dos dados coletados pelo Scraper, também várias anotações e pensamentos realizadas
 no decorrer do projeto, também terá uma conclusão ao final dele para uma possível melhora.
@@ -12,7 +12,7 @@ Os demais documentos estão todos em formato CSV e foram coletados e/ou transfor
 
 ## Competências Empregadas no Desenvolvimento do Projeto:
 
-- Analise Estaística
+- Analise Estatística
 - Analise Exploratória
 - Web Scrapping
 - Machine Learning
