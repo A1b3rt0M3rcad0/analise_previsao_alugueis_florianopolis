@@ -1,4 +1,4 @@
-# Analise e previsão de alugueis na região de Florianóplis
+# Analise e previsão de alugueis na região de Florianópolis
 
 ## Algumas Observações:
 
